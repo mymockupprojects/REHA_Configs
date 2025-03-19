@@ -1,3 +1,6 @@
 {
-Notification:true,
+    "businessCategories": [
+        "Real Estate"
+    ],
+  "notification":true
 }
